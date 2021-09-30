@@ -1,0 +1,33 @@
+div .form{
+    width:30%;
+    margin:auto;
+    display: flex;
+    justify-content: center;
+
+}
+input{
+    text-align: center;
+
+}
+textarea{
+    text-align: center;
+    
+}
+.btncustom{
+    width:100%;
+    margin: auto;
+   border: 1px solid beige;
+}
+input:hover{
+    cursor:pointer;
+
+}
+textarea:hover{
+    cursor: pointer;
+}
+.btncustom:hover{
+    border:2px solid cadetblue;
+}
+.button{
+    display:flex;
+}
