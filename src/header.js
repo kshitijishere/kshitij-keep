@@ -6,7 +6,7 @@ class Header extends React.Component{
         return(
             <>
             <div class="  header">
-                <h1 id="title">KEEP Google</h1>
+                <h1 id="title">KEEP Notes</h1>
                 </div>
             
             </>
